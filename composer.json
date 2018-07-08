@@ -1,0 +1,15 @@
+{
+  "name": "KolpakovDenis/yarrays",
+  "description": "Arrays to objects",
+  "keywords": ["helper", "array", "model", "collection"],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yoom\\": "src/"
+    }
+  }
+}
